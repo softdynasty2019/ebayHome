@@ -11,6 +11,10 @@ public class EbayHome {
 		System.out.println("Return ");
 		System.out.println("shipping");
 		System.out.println("inventory");//usa
+		System.out.println("cashout");//usa
+		System.out.println("cashoutfinal");//usa
+		
+
 		
 		
 		
