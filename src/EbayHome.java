@@ -10,7 +10,7 @@ public class EbayHome {
 		System.out.println("Payment ");
 		System.out.println("Return ");
 		System.out.println("shipping");
-		System.out.println("inventory");
+		System.out.println("inventory");//usa
 		
 		
 		
